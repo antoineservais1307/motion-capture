@@ -60,6 +60,6 @@ To avoid clutter, snapshots are automatically deleted after the email is sent. T
 
 
 ## Tadaaaaaa ! 
-Now you can see whoever is coming somwhere 
+Now you can see whoever is coming somewhere 
 
 ![GIF](https://media1.tenor.com/m/c8BVgXNBoRsAAAAd/josh-neal-camera.gif)
