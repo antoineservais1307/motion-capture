@@ -22,8 +22,8 @@ This project is a motion detection and alert system that uses a webcam to detect
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/motion-detection-alert-system.git
-   cd motion-detection-alert-system
+   git clone https://github.com/antoineservais1307/motion-capture.git
+   cd motion-capture
     ``` 
 2. Install required Python packages.
     ```bash
@@ -60,4 +60,4 @@ To avoid clutter, snapshots are automatically deleted after the email is sent. T
 
 ---
 Now you can see whoever is coming somewhere 
-![Tadaaaaaa!](https://media1.tenor.com/m/c8BVgXNBoRsAAAAd/josh-neal-camera.gif)
+![](https://media1.tenor.com/m/c8BVgXNBoRsAAAAd/josh-neal-camera.gif)
