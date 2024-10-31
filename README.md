@@ -58,8 +58,6 @@ The code uses frame differencing and thresholding to identify motion. When motio
 ## 📂 Snapshot Management
 To avoid clutter, snapshots are automatically deleted after the email is sent. This keeps the system efficient by not overloading storage.
 
-
-## Tadaaaaaa ! 
+---
 Now you can see whoever is coming somewhere 
-
-![GIF](https://media1.tenor.com/m/c8BVgXNBoRsAAAAd/josh-neal-camera.gif)
+![Tadaaaaaa!](https://media1.tenor.com/m/c8BVgXNBoRsAAAAd/josh-neal-camera.gif)
